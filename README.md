@@ -1,4 +1,4 @@
-510-Android-Client
+510小组客户端 --- 510 Android Client
 ==================
 
-About the Client of our team's Android Client
+这是一个开源的项目。它基于GPL v2许可证，
